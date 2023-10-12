@@ -1,0 +1,2 @@
+<h1>Ecommerce Sales Dashboard Using Power BI</h1><br>
+<p>In the fast-paced world of e-commerce, data-driven decision-making is the key to success. Our E-commerce Sales Analytics Power BI Dashboard project aims to provide a comprehensive and visually compelling solution for businesses in the e-commerce sector to gain valuable insights into their sales performance. This dynamic and interactive dashboard is designed to empower users with the ability to track, analyze, and optimize their sales data effortlessly.</p>
